@@ -27,9 +27,9 @@
 
 ## About me
 
-- 🎓 3rd year **B.E. CSE @ MIT (Anna University)**, focusing on systems, IoT and applied AI. [web:17][memory:9]  
-- 🚀 Love building **end‑to‑end products**: Flutter apps, APIs, OpenCV pipelines, and Raspberry Pi based prototypes. [memory:10][memory:13]  
-- 💡 Interested in **internships / roles** in Flutter, full stack, and IoT + vision projects. [web:32]  
+- 🎓 3rd year **B.E. CSE @ MIT (Anna University)**, focusing on systems, IoT and applied AI.
+- 🚀 Love building **end‑to‑end products**: Flutter apps, APIs, OpenCV pipelines, and Raspberry Pi based prototypes
+- 💡 Interested in **internships / roles** in Flutter, full stack, and IoT + vision projects.  
 
 ---
 
@@ -39,9 +39,9 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,nodejs,mongodb,firebase,python,cpp,java,opencv,raspberrypi,arduino,docker,git,figma,linux,vscode" />
 </p>
 
-- **App & Web:** Flutter, Dart, React, HTML, CSS, JavaScript. [web:37]  
-- **Backend & Cloud:** Node.js, MongoDB, Firebase, REST APIs, AWS Timestream. [web:41][memory:10]  
-- **Systems & Hardware:** C/C++, Python, Linux, Docker, Raspberry Pi, Arduino, OpenCV. [web:42][memory:11]  
+- **App & Web:** Flutter, Dart, React, HTML, CSS, JavaScript.
+- **Backend & Cloud:** Node.js, MongoDB, Firebase, REST APIs, AWS Timestream. 
+- **Systems & Hardware:** C/C++, Python, Linux, Docker, Raspberry Pi, Arduino, OpenCV.
 
 ---
 
@@ -51,7 +51,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750593-3e6d0bb0-8f0b-4d53-8b9e-bb6eb7e03b89.gif" width="75%" />
 </div>
 
-> A smart parking solution using **Flutter (UI)**, **OpenCV (vehicle detection)**, **Raspberry Pi (IoT)** and **AWS Timestream**, with live APIs from device to dashboard. [web:17]  
+> A smart parking solution using **Flutter (UI)**, **OpenCV (vehicle detection)**, **Raspberry Pi (IoT)** and **AWS Timestream**, with live APIs from device to dashboard.
 
 - Real-time detection of free/occupied slots from camera feeds.  
 - Cloud-connected with analytics-ready time‑series data.  
@@ -63,9 +63,9 @@
 
 ## More projects you’ll like
 
-- 🌿 **Smart Leaf Disease Detector** – OpenCV + vision model for real-time crop disease detection with edge deployment focus. [memory:13]  
-- 🤖 **ROS2 Delivery Robot Simulation** – Navigation and control using Gazebo + TurtleBot3. [memory:12]  
-- 🧪 **xv6 Syscall Tracer** – Low‑level OS work on RISC‑V to add and debug custom system calls. [memory:11]  
+- 🌿 **Smart Leaf Disease Detector** – OpenCV + vision model for real-time crop disease detection with edge deployment focus.
+- 🤖 **ROS2 Delivery Robot Simulation** – Navigation and control using Gazebo + TurtleBot3.
+- 🧪 **xv6 Syscall Tracer** – Low‑level OS work on RISC‑V to add and debug custom system calls.
 
 ---
 
