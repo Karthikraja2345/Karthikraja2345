@@ -72,9 +72,10 @@
 ## Activity & fun zone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikraja2345&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karthikraja2345&layout=compact&langs_count=8&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-display.vercel.app/api?username=Karthikraja2345&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats-display.vercel.app/api/top-langs?username=Karthikraja2345&layout=compact&langs_count=8&theme=tokyonight" height="150" />
 </p>
+
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="95%" />
